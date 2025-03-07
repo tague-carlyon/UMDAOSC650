@@ -1,4 +1,4 @@
-name: keras-tf-v2025
+name: aiclass
 channels:
   - anaconda
   - defaults
